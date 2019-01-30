@@ -45,8 +45,9 @@ p, li, h2, h3 {
 .night {
     position: absolute;
     right: 50%; 
-    padding: 10px;
+    padding: 25px 10px;
     transition: transform .2s;
+    opacity: .6;
     
 }
 .day:hover {
@@ -80,9 +81,11 @@ footer > div > p {
 }
 footer > div > a{
     display: inline-block;
-    font-size: 18px;
-    padding-left: 150px;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 190px;
     text-align: right;
+    color: whitesmoke;
 }
 #gene {
     position: absolute;
@@ -91,7 +94,7 @@ footer > div > a{
 }
 #me-img {
     position: relative;
-    left: 540px;
+    left: 545px;
     top: -65px;
     border-radius: 50%;
 }
