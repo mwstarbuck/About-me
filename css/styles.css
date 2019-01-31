@@ -12,7 +12,7 @@ body {
     padding: 0 20px 20px 30px;
     border: 5px solid black;
 }
-p, li, h2, h3 {
+p, h2, h3 {
     margin: 0 50% 0 10px;
     line-height: 2;
     letter-spacing: 1px;
@@ -62,12 +62,12 @@ p, li, h2, h3 {
 /*.next {
 
 
-}
+} */
 .right {
     margin: 0 0 0 50%;
 }
-footer {
-    /*position: absolute;
+/*footer {
+    position: absolute;
     width: 1800px;
     
 } */
@@ -79,14 +79,14 @@ footer > div > p {
     padding-left: 15px;
     padding-top: 20px;
 }
-footer > div > a{
+/*footer > div > a{
     display: inline-block;
     font-size: 20px;
     padding-top: 10px;
     padding-left: 190px;
     text-align: right;
     color: whitesmoke;
-}
+}*/
 #gene {
     position: absolute;
     top: 560px;        
