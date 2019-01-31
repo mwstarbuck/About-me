@@ -59,7 +59,7 @@ p, li, h2, h3 {
 #to-right {
     position: absolute;
 }
-.next {
+/*.next {
 
 
 }
@@ -68,9 +68,9 @@ p, li, h2, h3 {
 }
 footer {
     /*position: absolute;
-    width: 1800px;*/
+    width: 1800px;
     
-}
+} */
 footer > div > p {
     display: inline-block;
     font-size: 12px;
