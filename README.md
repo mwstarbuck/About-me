@@ -1,0 +1,1 @@
+This is a practice about-me webpage as part of the Digital Crafts pre-requisite assignment 5b.
